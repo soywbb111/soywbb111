@@ -2,7 +2,7 @@
 👋 Hi there, I'm Tran Thi Hoang Nhung ❤️‍🔥
 
 👩🏻‍💻 I'm an IT student at University of Information Technology - Vietnam National University, Ho Chi Minh City.  
-💡 I'm passionate about Big Data, Data Analytics, Frontend Development and Web. 
+💡 I'm passionate about Big Data, Data Analytics, Fullstack Web Development.
 📚 In my free time, I enjoy baking, reading books, and listening to music.  
 🌐 I can communicate in both English and Japanese.  
 
