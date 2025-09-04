@@ -1,5 +1,5 @@
 # 💫 About Me
-👋 Hi there, I'm Tran Thi Hoang Nhung ❤️‍🔥
+👋 Hi there, I'm Trần Thị Hoàng Nhung ❤️‍🔥
 
 👩🏻‍💻 I'm an IT student at University of Information Technology - Vietnam National University, Ho Chi Minh City.  
 💡 I'm passionate about Big Data, Data Analytics, Fullstack Web Development.
