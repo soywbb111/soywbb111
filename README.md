@@ -37,7 +37,7 @@
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=soywbb111&show_icons=true&theme=default&hide_border=false&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://streak-stats.demolab.com?user=soywbbb111&theme=default&hide_border=false&count_private=true&include_all_commits=true&v=2)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soywbbb111&theme=default&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soywbb111&layout=compact&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 
 ---
